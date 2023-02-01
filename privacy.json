@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "category": "Animal",
+    "slug": "animal",
+    "icon": "https://factbuzz.buzzmoy.com/assets/icons/icon_animal.png",
+    "featured": "yes"
+  },
+  {
+    "id": "8",
+    "category": "Food",
+    "slug": "food",
+    "icon": "https://factbuzz.buzzmoy.com/assets/icons/icon_food.png",
+    "featured": "yes"
+  },
+  {
+    "id": "3",
+    "category": "Human Body",
+    "slug": "human",
+    "icon": "https://factbuzz.buzzmoy.com/assets/icons/icon_human.png",
+    "featured": "yes"
+  },
+  {
+    "id": "5",
+    "category": "Nature",
+    "slug": "nature",
+    "icon": "https://factbuzz.buzzmoy.com/assets/icons/icon_nature.png",
+    "featured": "yes"
+  },
+  {
+    "id": "2",
+    "category": "Science",
+    "slug": "science",
+    "icon": "https://factbuzz.buzzmoy.com/assets/icons/icon_science.png",
+    "featured": "yes"
+  },
+  {
+    "id": "4",
+    "category": "Space",
+    "slug": "space",
+    "icon": "https://factbuzz.buzzmoy.com/assets/icons/icon_space.png",
+    "featured": "yes"
+  },
+  {
+    "id": "9",
+    "category": "Geography",
+    "slug": "geography",
+    "icon": "https://factbuzz.buzzmoy.com/assets/icons/icon_geography.png",
+    "featured": "no"
+  },
+  {
+    "id": "10",
+    "category": "History",
+    "slug": "history",
+    "icon": "https://factbuzz.buzzmoy.com/assets/icons/icon_history.png",
+    "featured": "no"
+  },
+  {
+    "id": "11",
+    "category": "Misc",
+    "slug": "misc",
+    "icon": "https://factbuzz.buzzmoy.com/assets/icons/icon_misc.png",
+    "featured": "no"
+  }
+]
